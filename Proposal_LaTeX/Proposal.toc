@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Background of Research}{2}{section.1}%
+\contentsline {section}{\numberline {2}Research Objective}{2}{section.2}%
+\contentsline {section}{\numberline {3}Research Methodology}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Instruments}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data collecting}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Data analyzing}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Milestone and Gantt Chart}{6}{section.4}%
+\contentsline {paragraph}{Milestone 1}{6}{section*.6}%
+\contentsline {paragraph}{Milestone 2}{6}{section*.7}%
+\contentsline {paragraph}{Milestone 3}{6}{section*.8}%
+\contentsline {paragraph}{Milestone 4}{6}{section*.9}%
+\contentsline {paragraph}{Milestone 5}{6}{section*.10}%
+\contentsline {paragraph}{Milestone 6}{6}{section*.11}%
+\contentsline {paragraph}{Milestone 7}{6}{section*.12}%
+\contentsline {paragraph}{Milestone 8}{6}{section*.13}%
+\contentsline {paragraph}{Milestone 9}{6}{section*.14}%
+\contentsline {paragraph}{Milestone 10}{6}{section*.15}%
+\contentsline {paragraph}{Milestone 11}{7}{section*.16}%
+\contentsline {paragraph}{Milestone 12}{7}{section*.17}%
+\contentsline {paragraph}{Milestone 13}{7}{section*.18}%
+\contentsline {paragraph}{Milestone 14}{7}{section*.19}%
+\contentsline {section}{\numberline {5}Budget Planning}{7}{section.5}%
+\contentsline {paragraph}{Unpredictable budget factor 1}{7}{section*.21}%
+\contentsline {paragraph}{Unpredictable budget factor 2}{7}{section*.22}%
+\contentsline {section}{\numberline {A}Relevant Chart}{8}{appendix.1.A}%
+\contentsline {section}{\numberline {B}Screenshot of Equipment Offer}{8}{appendix.1.B}%
